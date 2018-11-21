@@ -1,0 +1,52 @@
+adm1_code,id,state,Economic Impact Per Capita,Barrels Produced Per Year,Breweries Per Capita,Number of Breweries,Gallons Brewed per 21yr Old,Population,source
+USA-3541,1,Alabama,175.93,62738,0.9,34,0.5,4888949,https://www.brewersassociation.org/statistics/by-state/
+USA-3563,2,Alaska,511.8,204302,6.8,36,12,738068,https://www.brewersassociation.org/statistics/by-state/
+USA-3528,3,Arizona,203.79,147728,1.9,96,0.9,7123898,https://www.brewersassociation.org/statistics/by-state/
+USA-3520,4,Arkansas,191.1,42294,1.6,35,0.6,3020327,https://www.brewersassociation.org/statistics/by-state/
+USA-3521,5,California,262.73,3285525,2.6,764,3.5,39776830,https://www.brewersassociation.org/statistics/by-state/
+USA-3522,6,Colorado,764.34,1523204,8.4,348,11.4,5684203,https://www.brewersassociation.org/statistics/by-state/
+USA-3537,7,Conneticut,275.77,166848,2.2,60,2.2,3588683,https://www.brewersassociation.org/statistics/by-state/
+USA-3555,8,Delaware ,456.79,292741,2.9,21,12.6,971180,https://www.brewersassociation.org/statistics/by-state/
+USA-3556,9,District of Columbia,454.05,33025,2.2,12,1.9,703608,https://www.brewersassociation.org/statistics/by-state/
+USA-3542,10,Florida,198.69,1408032,1.5,243,2.7,21312211,https://www.brewersassociation.org/statistics/by-state/
+USA-3543,11,Georgia,22.25,408798,0.9,69,1.7,10545138,https://www.brewersassociation.org/statistics/by-state/
+USA-3517,12,Hawaii,233.73,69561,1.7,18,2,1426393,https://www.brewersassociation.org/statistics/by-state/
+USA-3518,13,Idaho,317.5,90318,4.5,54,2.3,1753860,https://www.brewersassociation.org/statistics/by-state/
+USA-3546,14,Illinois,283.7,385874,2.1,200,1.3,12768320,https://www.brewersassociation.org/statistics/by-state/
+USA-3547,15,Indiana,280.35,240063,2.8,137,1.5,6699629,https://www.brewersassociation.org/statistics/by-state/
+USA-3529,16,Iowa,388.77,78946,3.3,76,1.1,3160553,https://www.brewersassociation.org/statistics/by-state/
+USA-3530,17,Kansas,237.88,46725,1.7,36,0.7,2918515,https://www.brewersassociation.org/statistics/by-state/
+USA-3548,18,Kentucky,206.08,125302,1.6,52,1.2,4472265,https://www.brewersassociation.org/statistics/by-state/
+USA-3535,19,Louisiana,222.76,215168,1,33,2,4682509,https://www.brewersassociation.org/statistics/by-state/
+USA-3513,20,Maine,471.45,319590,9.6,99,9.6,1341582,https://www.brewersassociation.org/statistics/by-state/
+USA-3557,21,Maryland,189.76,293298,1.6,73,2,6079602,https://www.brewersassociation.org/statistics/by-state/
+USA-3561,22,Massachusetts,366.97,584895,2.5,129,3.5,6895917,https://www.brewersassociation.org/statistics/by-state/
+USA-3562,23,Michigan,292.12,873995,4.5,330,3.7,9991177,https://www.brewersassociation.org/statistics/by-state/
+USA-3514,24,Minnesota,509.3,650974,3.9,158,5,5628162,https://www.brewersassociation.org/statistics/by-state/
+USA-3544,25,Mississippi,148.33,30254,0.6,12,0.4,2982785,https://www.brewersassociation.org/statistics/by-state/
+USA-3531,26,Missouri,239.39,372840,2,91,2.6,6135888,https://www.brewersassociation.org/statistics/by-state/
+USA-3515,27,Montana,549.98,188449,9.6,75,7.5,1062330,https://www.brewersassociation.org/statistics/by-state/
+USA-3532,28,Nebraska,351.53,53655,3.6,49,1.2,1932549,https://www.brewersassociation.org/statistics/by-state/
+USA-3523,29,Nevada,204.49,64621,1.8,40,0.9,3056824,https://www.brewersassociation.org/statistics/by-state/
+USA-3538,30,New Hampshire,356.06,103329,5.6,58,3.1,1350575,https://www.brewersassociation.org/statistics/by-state/
+USA-3558,31,New Jersey,251.54,139562,1.3,90,0.6,9032872,https://www.brewersassociation.org/statistics/by-state/
+USA-3524,32,New Mexico,226.26,116023,4.4,67,2.4,2090708,https://www.brewersassociation.org/statistics/by-state/
+USA-3559,33,New York,237.59,1211494,2.2,329,2.5,19862512,https://www.brewersassociation.org/statistics/by-state/
+USA-3549,34,North Carolina,280.7,1211393,3.4,257,5,10390149,https://www.brewersassociation.org/statistics/by-state/
+USA-3516,35,North Dakota,375.11,12848,2.2,12,0.7,755238,https://www.brewersassociation.org/statistics/by-state/
+USA-3550,36,Ohio,319.41,1355279,2.6,225,4.9,11694664,https://www.brewersassociation.org/statistics/by-state/
+USA-3533,37,Oklahoma ,182.77,52807,1,27,0.6,3940521,https://www.brewersassociation.org/statistics/by-state/
+USA-3525,38,Oregon ,659.12,1078391,8.5,266,10.7,4199563,https://www.brewersassociation.org/statistics/by-state/
+USA-3560,39,Pennsylvania,615.77,3724010,2.9,282,12,12823959,https://www.brewersassociation.org/statistics/by-state/
+USA-3539,40,Rhode Island,196.43,26295,2.1,17,1,1061712,https://www.brewersassociation.org/statistics/by-state/
+USA-3545,41,South Carolina,181.11,108211,1.6,61,0.9,5088916,https://www.brewersassociation.org/statistics/by-state/
+USA-3534,42,South Dakota,345.81,14057,2.6,16,0.7,877790,https://www.brewersassociation.org/statistics/by-state/
+USA-3551,43,Tennessee,236.46,253782,1.7,82,1.6,6782564,https://www.brewersassociation.org/statistics/by-state/
+USA-3536,44,Texas,238.92,1156536,1.3,251,1.8,28704330,https://www.brewersassociation.org/statistics/by-state/
+USA-3526,45,Utah,214.34,206529,1.5,30,3.1,3159345,https://www.brewersassociation.org/statistics/by-state/
+USA-3540,46,Vermont,666.78,292479,11.5,55,18.9,623960,https://www.brewersassociation.org/statistics/by-state/
+USA-3552,47,Virginia,226.13,358903,3,190,1.8,8525660,https://www.brewersassociation.org/statistics/by-state/
+USA-3519,48,Washington,334.6,510682,6.7,369,2.9,7530552,https://www.brewersassociation.org/statistics/by-state/
+USA-3554,49,West Virginia,214.74,12989,1.7,23,0.3,1803077,https://www.brewersassociation.org/statistics/by-state/
+USA-3553,50,Wisconsin,484.22,1029916,3.7,160,7.5,5818049,https://www.brewersassociation.org/statistics/by-state/
+USA-3527,51,Wyoming,418.78,45401,5.7,24,3.3,573720,https://www.brewersassociation.org/statistics/by-state/
